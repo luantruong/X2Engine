@@ -1,6 +1,3 @@
-Test
-Test
-
 --WARNING--
 
 X2CRM 1.2.2 Changelog
